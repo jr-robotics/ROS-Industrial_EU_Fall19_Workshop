@@ -136,7 +136,7 @@ Commands:
   list_keys           List keys
 ~~~~
 
-The individual commands are described [here](Part2_SROS2/sros2commands.md) in more detail.
+The individual commands are described [here](sros2commands.md) in more detail.
 
 
 ## Example with secured communication
